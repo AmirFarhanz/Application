@@ -21,7 +21,7 @@
     </head>
     <body>
        <header>
-        <section>
+        
             <h2>Carry All</h2>
             <nav>
                 <ul>
@@ -30,7 +30,9 @@
                     <a href=""><li>Our Story</li></a>
                 </ul>
             </nav>
-        </section>
+            <section class="cart">
+                
+            </section>
         
        </header>
     </body>

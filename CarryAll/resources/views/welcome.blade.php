@@ -22,19 +22,18 @@
         @endif
     </head>
     <body>
-       <header class="bg-blue-200 h-[70px] flex items-center">
-               <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
-                    <div class="flex justify-between items-center">
-                        <a href="" class="text-2xl font-semibold text-gray-700 hover:text-gray-900">Carry All</a>
-                        <nav>
-                            <ul class="flex space-x-8">
-                                <li>Home</li>
-                                <li>Products</li>
-                                <li>Our Story</li>
-                            </ul>
-                        </nav>
-                    </div>
-               </div>
+       <header>
+        <section>
+            <h2>Carry All</h2>
+            <nav>
+                <ul>
+                    <a href=""><li>Home</li></a>
+                    <a href=""><li>Product</li></a>
+                    <a href=""><li>Our Story</li></a>
+                </ul>
+            </nav>
+        </section>
+        
        </header>
     </body>
 </html>

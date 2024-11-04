@@ -28,12 +28,18 @@
                         <a href="" class="text-2xl font-semibold text-gray-700 hover:text-gray-900">Carry All</a>
                         <nav>
                             <ul class="flex space-x-8">
-                                <li>Home</li>
-                                <li>Products</li>
-                                <li>Our Story</li>
+                                <a href=""><li class="transition-colors hover:text-white">Home</li></a>
+                                <a href=""><li class="transition-colors hover:text-white">Products</li></a>
+                                <a href=""><li class="transition-colors hover:text-white">Our Story</li></a>
                             </ul>
                         </nav>
+                        <div class="flex space-x-8">
+                        <img src="\img\109-1092659_search-icon-small-png-clipart-removebg-preview.png" alt=""class="h-8 w-auto">
+                            <img src="img\1413908-removebg-preview.png" alt="" class="h-8 w-auto">
+                            
+                        </div>
                     </div>
+                    
                </div>
        </header>
     </body>
